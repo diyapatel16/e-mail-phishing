@@ -1,6 +1,7 @@
+streamlit==1.32.0
 pandas
 numpy
 scikit-learn
-streamlit
-openpyxl
 pickle-mixin
+openpyxl
+altair==4.2.2
