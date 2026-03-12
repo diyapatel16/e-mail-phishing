@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import pickle
-import numpy
+import numpy as np
 
 # ===============================
 # PAGE CONFIG
